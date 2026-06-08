@@ -1,6 +1,5 @@
-# Telegram Music Downloader Bot
 
-A simple, straightforward Telegram bot that allows approved users to download music tracks and full albums using `somedl`.
+A simple, straightforward Telegram bot that allows approved users to download music tracks and full albums using `somedl`.In a nutshell i meant for this code to be run locally for a specific user in my case myself.
 
 ## Features
 - Search and download single tracks
