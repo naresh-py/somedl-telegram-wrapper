@@ -29,6 +29,9 @@ A simple, straightforward Telegram bot that allows approved users to download mu
 
 3. **Install Python dependencies**:
    This will install `python-telegram-bot`, `python-dotenv`, and the `somedl` downloader.
+
+
+
    note:the tool somedl is a great tool please check out the og repo https://github.com/ChemistryGull/SomeDL
    ```bash
    pip install -r requirements.txt
